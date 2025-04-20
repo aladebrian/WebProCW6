@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebProCW6/static/css/main.8dddc056.css",
+    "main.js": "/WebProCW6/static/js/main.c00eecae.js",
+    "static/js/453.8888c5ed.chunk.js": "/WebProCW6/static/js/453.8888c5ed.chunk.js",
+    "index.html": "/WebProCW6/index.html",
+    "main.8dddc056.css.map": "/WebProCW6/static/css/main.8dddc056.css.map",
+    "main.c00eecae.js.map": "/WebProCW6/static/js/main.c00eecae.js.map",
+    "453.8888c5ed.chunk.js.map": "/WebProCW6/static/js/453.8888c5ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dddc056.css",
+    "static/js/main.c00eecae.js"
+  ]
+}
